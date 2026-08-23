@@ -1,0 +1,6 @@
+{
+  "name": "DocVault AI",
+  "description": "Consequence-aware document management platform for universities to track policy changes, conflicts, ripple effects, live OCR document scanning, and smart approval workflows.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
